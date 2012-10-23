@@ -1,10 +1,10 @@
-音乐列表
+Playlist
 ========
 
-这里是我之前买的几张 CD 的音乐列表，在这里备份一下。
+A backup file of my previous bought CDs. Unluckily I lost them during a moving.
 
-Book I
-------
+Album I
+-------
 
 - Summer Wine (Lee Hazelwood & Nancy Sinatra)
 - Season in the Sun (Westlife)
